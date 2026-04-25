@@ -118,22 +118,6 @@ These channels show higher average transaction values — increasing partner inc
 
 ---
 
-## 🚀 How to Reproduce This Analysis
-
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/yourusername/customer-revenue-segmentation.git
-   ```
-
-2. **Load data into your SQL database**  
-   Import `data/customer_revenue_analysis.xlsx` into PostgreSQL as a table named `transactions`.
-
-3. **Run SQL scripts** in order (01 → 05) using pgAdmin, DBeaver, or any SQL client.
-
-4. **Open Power BI** → Load the Excel file → Open `customer_dashboard.pbix`.
-
----
-
 ## 👤 Author
 
 **Priyanka More**  
