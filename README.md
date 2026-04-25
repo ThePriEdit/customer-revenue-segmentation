@@ -136,6 +136,6 @@ These channels show higher average transaction values — increasing partner inc
 
 ## 👤 Author
 
-**[Your Name]**  
-Aspiring Data Analyst | SQL · Power BI · Excel · Python  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com)
+**Priyanka More**  
+Business Analyst | SQL · Power BI · Excel · Python  
+[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/priyanka-more-a476021a6/)) | [Portfolio](https://github.com/ThePriEdit)
